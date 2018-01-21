@@ -13,7 +13,7 @@ The dataset includes the following files:
 
 ## Variable
 
-The set of variables that were estimated from these signals are: 
+The set of variables that were estimated for this analysis: 
 * mean(): Mean value
 * std(): Standard deviation
 
