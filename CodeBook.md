@@ -11,12 +11,19 @@ The dataset includes the following files:
 - test/X_test.txt: Test set.
 - test/y_test.txt: Test labels.
 
-## Variable
+### Variable
 
 The set of variables that were estimated for this analysis: 
 * mean(): Mean value
 * std(): Standard deviation
 
+### Activity Labels
+- 1 WALKING
+- 2 WALKING_UPSTAIRS
+- 3 WALKING_DOWNSTAIRS
+- 4 SITTING
+- 5 STANDING
+- 6 LAYING
 
 ## Acknowledgement
 
