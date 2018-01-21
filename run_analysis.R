@@ -57,3 +57,5 @@ allDataSet_mean <- dcast(allDataSet_melt, subject + activity ~ variable, mean)
 #Writing tidy.txt
 
 write.table(allDataSet_mean, "tidy.txt", row.names = FALSE, quote = FALSE)
+
+#end of code
