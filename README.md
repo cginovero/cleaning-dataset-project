@@ -6,6 +6,6 @@ The purpose of this project is to demonstrate our ability to collect, work with,
 
 the outcomes of this project are the following:
 
-1 a tidy data set;
-2 a link to a Github repository with script for performing the analysis; and
-3 a code book that describes the variables, the data, and any transformations or work that you performed to clean up the data.
+-  a tidy data set;
+-  a link to a Github repository with script for performing the analysis; and
+-  a code book that describes the variables, the data, and any transformations or work that you performed to clean up the data.
