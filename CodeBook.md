@@ -1,4 +1,5 @@
-# Dataset
+
+## Dataset
 
 The dataset includes the following files:
 - README.txt
@@ -10,14 +11,14 @@ The dataset includes the following files:
 - test/X_test.txt: Test set.
 - test/y_test.txt: Test labels.
 
-# Variable
+## Variable
 
 The set of variables that were estimated from these signals are: 
 * mean(): Mean value
 * std(): Standard deviation
 
 
-# Acknowledgement
+## Acknowledgement
 
 * Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. Human Activity Recognition on Smartphones using a Multiclass Hardware-Friendly Support Vector Machine. International Workshop of Ambient Assisted Living (IWAAL 2012). Vitoria-Gasteiz, Spain. Dec 2012
 * Jorge L. Reyes-Ortiz, Alessandro Ghio, Luca Oneto, Davide Anguita. November 2012.
